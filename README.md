@@ -27,20 +27,8 @@ I build AI tools for the people who use them day to day. At Cassava Technologies
 **Build & delivery**  
 ![docker,git,githubactions](https://skillicons.dev/icons?i=docker,git,githubactions)
 
-## RAG architecture
+## LLM & RAG Architecture
 
-A reference design for answering questions from a document collection. Indexing happens when documents change. At query time, retrieval supplies passages and source IDs for the model’s answer.
+A reference architecture for decoder-only text generation and retrieval-augmented question answering. It illustrates a general pattern, not the implementation of any featured project.
 
-```mermaid
-flowchart TD
-    D["Source documents"] --> C["Split into passages"]
-    C --> E["Embed passages"]
-    E --> I[("Vector index + source IDs")]
-    Q["User question"] --> V["Embed question"]
-    V --> R["Retrieve relevant passages"]
-    I --> R
-    R --> P["Assemble prompt"]
-    Q --> P
-    P --> L["Language model"]
-    L --> A["Answer with sources"]
-```
+![LLM and RAG reference architecture: decoder-only token generation loop and document indexing and retrieval answer flow](assets/architecture.svg)
