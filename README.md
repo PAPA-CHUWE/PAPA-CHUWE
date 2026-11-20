@@ -43,10 +43,11 @@ At Cassava Technologies, I configured NVIDIA H200 GPU environments and loaded la
 ## Tech stack
 
 **Languages & APIs**  
-![python,go,dotnet,fastapi](https://skillicons.dev/icons?i=python,go,dotnet,fastapi)
+![python,go,dotnet,fastapi,java,csharp,springboot](https://skillicons.dev/icons?i=python,go,dotnet,fastapi,java,cs,spring)
 
-**Web & data**  
-![react,nextjs,postgres](https://skillicons.dev/icons?i=react,nextjs,postgres)
+**Web, mobile & data**
+
+![react,nextjs,flutter,postgres,mongodb](https://skillicons.dev/icons?i=react,nextjs,flutter,postgres,mongodb)
 
 **Build & delivery**  
 ![docker,git,githubactions](https://skillicons.dev/icons?i=docker,git,githubactions)
@@ -58,6 +59,18 @@ At Cassava Technologies, I configured NVIDIA H200 GPU environments and loaded la
 **Computer vision**
 
 ![YOLO](https://img.shields.io/badge/YOLO-111111?style=flat&logo=ultralytics&logoColor=white) ![ByteTrack](https://img.shields.io/badge/ByteTrack-111111?style=flat)
+
+## Technical skills
+
+- **Computer vision & video analytics:** YOLO object detection, ByteTrack multi-object tracking, line-crossing counts, and image annotation with CVAT.
+- **Multilingual model evaluation:** Designing benchmark tasks, evaluating Shona reading comprehension, and checking model responses for completeness and validity.
+- **Document processing:** OCR, text extraction, and ingestion of PDFs, Word documents, presentations, and transcripts.
+- **Workflow design & financial automation:** Mapping approval processes, implementing delegation and audit trails, and automating financial reconciliation with UiPath and Microsoft Power Automate.
+- **Multi-tenant application design:** Role-based access controls and dashboards for administrators, instructors, and customers.
+- **Databases & infrastructure:** MongoDB, PostgreSQL, vector stores, similarity search, MinIO object storage, AWS Lightsail, Docker, Ubuntu Linux, systemd, Git, GitHub, and CI/CD.
+- **Backend, web & mobile development:** Python, FastAPI, Java, Spring Boot, Node.js, REST APIs, React, Next.js, TypeScript, JavaScript, Flutter (Dart), and React Native.
+- **Generative AI & LLMs:** LangChain, LiteLLM, OpenAI and Anthropic APIs, RAG, embeddings, prompt engineering, AI agents, and LLM evaluation.
+- **Technical communication:** Preparing proof-of-concept proposals, presenting technical approaches, and coordinating requirements with engineering, data, and evaluation teams.
 
 ## LLM & RAG Architecture
 
