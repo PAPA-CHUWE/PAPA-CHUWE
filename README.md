@@ -1,4 +1,4 @@
-![Terrence Chuwe · AI & Automation Engineer · Harare, Zimbabwe](assets/portfolio.svg)
+![Terrence Chuwe · AI & Automation Engineer · Harare, Zimbabwe](assets/portfolio.svg "Terrence Chuwe · AI & Automation Engineer · Harare, Zimbabwe")
 
 I build AI tools for the people who use them day to day. At Cassava Technologies, I work on network reporting, retrieval-augmented generation, and GPU inference. Before that, I built backend services and UiPath automations for teams across Southern and East Africa.
 
@@ -16,68 +16,68 @@ I build AI tools for the people who use them day to day. At Cassava Technologies
 
 **GPU & Model Deployment**
 
-![NVIDIA H200 Configuration](assets/skill-0.svg) ![GPU Model Loading](assets/skill-1.svg) ![LLM Inference](assets/skill-2.svg)
+![NVIDIA H200 Configuration](assets/skill-0.svg "NVIDIA H200 Configuration") ![GPU Model Loading](assets/skill-1.svg "GPU Model Loading") ![LLM Inference](assets/skill-2.svg "LLM Inference")
 
 At Cassava Technologies, I configured NVIDIA H200 GPU environments and loaded language models for inference.
 
 **LLMs & Retrieval**
 
-![LangChain](assets/skill-3.svg) ![LiteLLM](assets/skill-4.svg) ![OpenAI API](assets/skill-5.svg) ![Anthropic API](assets/skill-6.svg) ![RAG](assets/skill-7.svg) ![Embeddings](assets/skill-8.svg) ![Prompt Engineering](assets/skill-9.svg) ![AI Agent Development](assets/skill-10.svg) ![Multimodal LLM Integration](assets/skill-11.svg)
+![LangChain](assets/skill-3.svg "LangChain") ![LiteLLM](assets/skill-4.svg "LiteLLM") ![OpenAI API](assets/skill-5.svg "OpenAI API") ![Anthropic API](assets/skill-6.svg "Anthropic API") ![RAG](assets/skill-7.svg "RAG") ![Embeddings](assets/skill-8.svg "Embeddings") ![Prompt Engineering](assets/skill-9.svg "Prompt Engineering") ![AI Agent Development](assets/skill-10.svg "AI Agent Development") ![Multimodal LLM Integration](assets/skill-11.svg "Multimodal LLM Integration")
 
 **Model Evaluation**
 
-![LLM Benchmarking](assets/skill-12.svg) ![Benchmark Task Design](assets/skill-13.svg) ![Shona Reading Comprehension](assets/skill-14.svg) ![Response Completeness](assets/skill-15.svg) ![Response Validity](assets/skill-16.svg) ![Reasoning & Bias Evaluation](assets/skill-17.svg)
+![LLM Benchmarking](assets/skill-12.svg "LLM Benchmarking") ![Benchmark Task Design](assets/skill-13.svg "Benchmark Task Design") ![Shona Reading Comprehension](assets/skill-14.svg "Shona Reading Comprehension") ![Response Completeness](assets/skill-15.svg "Response Completeness") ![Response Validity](assets/skill-16.svg "Response Validity") ![Reasoning & Bias Evaluation](assets/skill-17.svg "Reasoning & Bias Evaluation")
 
 **Computer Vision & Video Analytics**
 
-![YOLO Object Detection](assets/skill-18.svg) ![ByteTrack Multi-Object Tracking](assets/skill-19.svg) ![Line-Crossing Counts](assets/skill-20.svg) ![CVAT Image Annotation](assets/skill-21.svg)
+![YOLO Object Detection](assets/skill-18.svg "YOLO Object Detection") ![ByteTrack Multi-Object Tracking](assets/skill-19.svg "ByteTrack Multi-Object Tracking") ![Line-Crossing Counts](assets/skill-20.svg "Line-Crossing Counts") ![CVAT Image Annotation](assets/skill-21.svg "CVAT Image Annotation")
 
 **Document Processing**
 
-![OCR](assets/skill-22.svg) ![Text Extraction](assets/skill-23.svg) ![PDF Ingestion](assets/skill-24.svg) ![Word Document Ingestion](assets/skill-25.svg) ![Presentation Ingestion](assets/skill-26.svg) ![Transcript Ingestion](assets/skill-27.svg)
+![OCR](assets/skill-22.svg "OCR") ![Text Extraction](assets/skill-23.svg "Text Extraction") ![PDF Ingestion](assets/skill-24.svg "PDF Ingestion") ![Word Document Ingestion](assets/skill-25.svg "Word Document Ingestion") ![Presentation Ingestion](assets/skill-26.svg "Presentation Ingestion") ![Transcript Ingestion](assets/skill-27.svg "Transcript Ingestion")
 
 **Workflow Design & Financial Automation**
 
-![Approval Process Mapping](assets/skill-28.svg) ![Workflow Delegation](assets/skill-29.svg) ![Audit Trails](assets/skill-30.svg) ![Financial Reconciliation](assets/skill-31.svg) ![UiPath](assets/skill-32.svg) ![Microsoft Power Automate](assets/skill-33.svg)
+![Approval Process Mapping](assets/skill-28.svg "Approval Process Mapping") ![Workflow Delegation](assets/skill-29.svg "Workflow Delegation") ![Audit Trails](assets/skill-30.svg "Audit Trails") ![Financial Reconciliation](assets/skill-31.svg "Financial Reconciliation") ![UiPath](assets/skill-32.svg "UiPath") ![Microsoft Power Automate](assets/skill-33.svg "Microsoft Power Automate")
 
 **Multi-Tenant Application Design**
 
-![Role-Based Access Control](assets/skill-34.svg) ![Admin Dashboards](assets/skill-35.svg) ![Instructor Dashboards](assets/skill-36.svg) ![Customer Dashboards](assets/skill-37.svg)
+![Role-Based Access Control](assets/skill-34.svg "Role-Based Access Control") ![Admin Dashboards](assets/skill-35.svg "Admin Dashboards") ![Instructor Dashboards](assets/skill-36.svg "Instructor Dashboards") ![Customer Dashboards](assets/skill-37.svg "Customer Dashboards")
 
 **Databases & Infrastructure**
 
-![MongoDB](assets/skill-38.svg) ![PostgreSQL](assets/skill-39.svg) ![Vector Stores](assets/skill-40.svg) ![Similarity Search](assets/skill-41.svg) ![MinIO Object Storage](assets/skill-42.svg) ![AWS Lightsail](assets/skill-43.svg) ![Docker](assets/skill-44.svg) ![Ubuntu Linux](assets/skill-45.svg) ![systemd](assets/skill-46.svg) ![Git](assets/skill-47.svg) ![GitHub](assets/skill-48.svg) ![GitHub Actions](assets/skill-49.svg) ![CI/CD](assets/skill-50.svg)
+![MongoDB](assets/skill-38.svg "MongoDB") ![PostgreSQL](assets/skill-39.svg "PostgreSQL") ![Vector Stores](assets/skill-40.svg "Vector Stores") ![Similarity Search](assets/skill-41.svg "Similarity Search") ![MinIO Object Storage](assets/skill-42.svg "MinIO Object Storage") ![AWS Lightsail](assets/skill-43.svg "AWS Lightsail") ![Docker](assets/skill-44.svg "Docker") ![Ubuntu Linux](assets/skill-45.svg "Ubuntu Linux") ![systemd](assets/skill-46.svg "systemd") ![Git](assets/skill-47.svg "Git") ![GitHub](assets/skill-48.svg "GitHub") ![GitHub Actions](assets/skill-49.svg "GitHub Actions") ![CI/CD](assets/skill-50.svg "CI/CD")
 
 **Backend, Web & Mobile Development**
 
-![Python](assets/skill-51.svg) ![FastAPI](assets/skill-52.svg) ![Java](assets/skill-53.svg) ![Spring Boot](assets/skill-54.svg) ![Node.js](assets/skill-55.svg) ![REST APIs](assets/skill-56.svg) ![React](assets/skill-57.svg) ![Next.js](assets/skill-58.svg) ![TypeScript](assets/skill-59.svg) ![JavaScript](assets/skill-60.svg) ![Flutter (Dart)](assets/skill-61.svg) ![React Native](assets/skill-62.svg)
+![Python](assets/skill-51.svg "Python") ![FastAPI](assets/skill-52.svg "FastAPI") ![Java](assets/skill-53.svg "Java") ![Spring Boot](assets/skill-54.svg "Spring Boot") ![Node.js](assets/skill-55.svg "Node.js") ![REST APIs](assets/skill-56.svg "REST APIs") ![React](assets/skill-57.svg "React") ![Next.js](assets/skill-58.svg "Next.js") ![TypeScript](assets/skill-59.svg "TypeScript") ![JavaScript](assets/skill-60.svg "JavaScript") ![Flutter (Dart)](assets/skill-61.svg "Flutter (Dart)") ![React Native](assets/skill-62.svg "React Native")
 
 **Technical Communication**
 
-![Proof-of-Concept Proposals](assets/skill-63.svg) ![Technical Presentations](assets/skill-64.svg) ![Requirements Coordination](assets/skill-65.svg)
+![Proof-of-Concept Proposals](assets/skill-63.svg "Proof-of-Concept Proposals") ![Technical Presentations](assets/skill-64.svg "Technical Presentations") ![Requirements Coordination](assets/skill-65.svg "Requirements Coordination")
 
 ## Tech stack
 
 **Languages & APIs**  
-![python,go,dotnet,fastapi,java,csharp,springboot](https://skillicons.dev/icons?i=python,go,dotnet,fastapi,java,cs,spring)
+![python,go,dotnet,fastapi,java,csharp,springboot](https://skillicons.dev/icons?i=python,go,dotnet,fastapi,java,cs,spring "Languages and APIs: Python, Go, .NET, FastAPI, Java, C#, Spring Boot")
 
 **Web, mobile & data**
 
-![react,nextjs,flutter,postgres,mongodb](https://skillicons.dev/icons?i=react,nextjs,flutter,postgres,mongodb)
+![react,nextjs,flutter,postgres,mongodb](https://skillicons.dev/icons?i=react,nextjs,flutter,postgres,mongodb "Web, mobile, and data stack")
 
 **Build & delivery**  
-![docker,git,githubactions](https://skillicons.dev/icons?i=docker,git,githubactions)
+![docker,git,githubactions](https://skillicons.dev/icons?i=docker,git,githubactions "Build and delivery tools")
 
 **Infrastructure & automation**
 
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white) ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat&logo=uipath&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=powerautomate&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white "NVIDIA") ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat&logo=uipath&logoColor=white "UiPath") ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=powerautomate&logoColor=white "Power Automate") ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white "AWS") ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white "SQL Server")
 
 **Computer vision**
 
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=flat&logo=ultralytics&logoColor=white) ![ByteTrack](https://img.shields.io/badge/ByteTrack-111111?style=flat)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=flat&logo=ultralytics&logoColor=white "YOLO") ![ByteTrack](https://img.shields.io/badge/ByteTrack-111111?style=flat "ByteTrack")
 
 ## LLM & RAG Architecture
 
 A reference architecture for decoder-only text generation and retrieval-augmented question answering. It illustrates a general pattern, not the implementation of any featured project.
 
-![LLM and RAG reference architecture: decoder-only token generation loop and document indexing and retrieval answer flow](assets/architecture.svg)
+![LLM and RAG reference architecture: decoder-only token generation loop and document indexing and retrieval answer flow](assets/architecture.svg "LLM and RAG reference architecture: decoder-only token generation loop and document indexing and retrieval answer flow")
