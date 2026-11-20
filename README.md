@@ -22,23 +22,39 @@ At Cassava Technologies, I configured NVIDIA H200 GPU environments and loaded la
 
 **LLMs & Retrieval**
 
-![AI Agent Development](assets/skill-3.svg) ![Multimodal LLM Integration](assets/skill-4.svg) ![RAG](assets/skill-5.svg) ![Document Ingestion](assets/skill-6.svg) ![Embeddings](assets/skill-7.svg) ![Prompt Engineering](assets/skill-8.svg)
+![LangChain](assets/skill-3.svg) ![LiteLLM](assets/skill-4.svg) ![OpenAI API](assets/skill-5.svg) ![Anthropic API](assets/skill-6.svg) ![RAG](assets/skill-7.svg) ![Embeddings](assets/skill-8.svg) ![Prompt Engineering](assets/skill-9.svg) ![AI Agent Development](assets/skill-10.svg) ![Multimodal LLM Integration](assets/skill-11.svg)
 
 **Model Evaluation**
 
-![LLM Benchmarking](assets/skill-9.svg) ![Shona Language Evaluation](assets/skill-10.svg) ![Reasoning & Bias Evaluation](assets/skill-11.svg)
+![LLM Benchmarking](assets/skill-12.svg) ![Benchmark Task Design](assets/skill-13.svg) ![Shona Reading Comprehension](assets/skill-14.svg) ![Response Completeness](assets/skill-15.svg) ![Response Validity](assets/skill-16.svg) ![Reasoning & Bias Evaluation](assets/skill-17.svg)
 
-**Computer Vision**
+**Computer Vision & Video Analytics**
 
-![Object Detection](assets/skill-12.svg) ![Multi-Object Tracking](assets/skill-13.svg) ![Video Analytics](assets/skill-14.svg)
+![YOLO Object Detection](assets/skill-18.svg) ![ByteTrack Multi-Object Tracking](assets/skill-19.svg) ![Line-Crossing Counts](assets/skill-20.svg) ![CVAT Image Annotation](assets/skill-21.svg)
 
-**Automation & Integration**
+**Document Processing**
 
-![Robotic Process Automation](assets/skill-15.svg) ![Banking Systems Integration](assets/skill-16.svg) ![API Development](assets/skill-17.svg) ![Network Automation](assets/skill-18.svg)
+![OCR](assets/skill-22.svg) ![Text Extraction](assets/skill-23.svg) ![PDF Ingestion](assets/skill-24.svg) ![Word Document Ingestion](assets/skill-25.svg) ![Presentation Ingestion](assets/skill-26.svg) ![Transcript Ingestion](assets/skill-27.svg)
 
-**Cloud & Delivery**
+**Workflow Design & Financial Automation**
 
-![AWS Deployment](assets/skill-19.svg) ![Containerisation](assets/skill-20.svg) ![CI/CD Pipelines](assets/skill-21.svg) ![Production Monitoring](assets/skill-22.svg)
+![Approval Process Mapping](assets/skill-28.svg) ![Workflow Delegation](assets/skill-29.svg) ![Audit Trails](assets/skill-30.svg) ![Financial Reconciliation](assets/skill-31.svg) ![UiPath](assets/skill-32.svg) ![Microsoft Power Automate](assets/skill-33.svg)
+
+**Multi-Tenant Application Design**
+
+![Role-Based Access Control](assets/skill-34.svg) ![Admin Dashboards](assets/skill-35.svg) ![Instructor Dashboards](assets/skill-36.svg) ![Customer Dashboards](assets/skill-37.svg)
+
+**Databases & Infrastructure**
+
+![MongoDB](assets/skill-38.svg) ![PostgreSQL](assets/skill-39.svg) ![Vector Stores](assets/skill-40.svg) ![Similarity Search](assets/skill-41.svg) ![MinIO Object Storage](assets/skill-42.svg) ![AWS Lightsail](assets/skill-43.svg) ![Docker](assets/skill-44.svg) ![Ubuntu Linux](assets/skill-45.svg) ![systemd](assets/skill-46.svg) ![Git](assets/skill-47.svg) ![GitHub](assets/skill-48.svg) ![GitHub Actions](assets/skill-49.svg) ![CI/CD](assets/skill-50.svg)
+
+**Backend, Web & Mobile Development**
+
+![Python](assets/skill-51.svg) ![FastAPI](assets/skill-52.svg) ![Java](assets/skill-53.svg) ![Spring Boot](assets/skill-54.svg) ![Node.js](assets/skill-55.svg) ![REST APIs](assets/skill-56.svg) ![React](assets/skill-57.svg) ![Next.js](assets/skill-58.svg) ![TypeScript](assets/skill-59.svg) ![JavaScript](assets/skill-60.svg) ![Flutter (Dart)](assets/skill-61.svg) ![React Native](assets/skill-62.svg)
+
+**Technical Communication**
+
+![Proof-of-Concept Proposals](assets/skill-63.svg) ![Technical Presentations](assets/skill-64.svg) ![Requirements Coordination](assets/skill-65.svg)
 
 ## Tech stack
 
@@ -59,18 +75,6 @@ At Cassava Technologies, I configured NVIDIA H200 GPU environments and loaded la
 **Computer vision**
 
 ![YOLO](https://img.shields.io/badge/YOLO-111111?style=flat&logo=ultralytics&logoColor=white) ![ByteTrack](https://img.shields.io/badge/ByteTrack-111111?style=flat)
-
-## Technical skills
-
-- **Computer vision & video analytics:** YOLO object detection, ByteTrack multi-object tracking, line-crossing counts, and image annotation with CVAT.
-- **Multilingual model evaluation:** Designing benchmark tasks, evaluating Shona reading comprehension, and checking model responses for completeness and validity.
-- **Document processing:** OCR, text extraction, and ingestion of PDFs, Word documents, presentations, and transcripts.
-- **Workflow design & financial automation:** Mapping approval processes, implementing delegation and audit trails, and automating financial reconciliation with UiPath and Microsoft Power Automate.
-- **Multi-tenant application design:** Role-based access controls and dashboards for administrators, instructors, and customers.
-- **Databases & infrastructure:** MongoDB, PostgreSQL, vector stores, similarity search, MinIO object storage, AWS Lightsail, Docker, Ubuntu Linux, systemd, Git, GitHub, and CI/CD.
-- **Backend, web & mobile development:** Python, FastAPI, Java, Spring Boot, Node.js, REST APIs, React, Next.js, TypeScript, JavaScript, Flutter (Dart), and React Native.
-- **Generative AI & LLMs:** LangChain, LiteLLM, OpenAI and Anthropic APIs, RAG, embeddings, prompt engineering, AI agents, and LLM evaluation.
-- **Technical communication:** Preparing proof-of-concept proposals, presenting technical approaches, and coordinating requirements with engineering, data, and evaluation teams.
 
 ## LLM & RAG Architecture
 
