@@ -14,9 +14,31 @@ I build AI tools for the people who use them day to day. At Cassava Technologies
 
 ## Skills
 
-![African Language Evaluation](assets/skill-8.svg) ![Computer Vision](assets/skill-9.svg) ![RPA and Workflow Automation](assets/skill-4.svg) ![Multimodal LLM Integration](assets/skill-1.svg) ![Multi-Tenant Architecture](assets/skill-10.svg) ![Retrieval-augmented generation](assets/skill-0.svg) ![AI agents](assets/skill-2.svg) ![GPU inference](assets/skill-3.svg) ![Backend APIs](assets/skill-5.svg) ![Model evaluation](assets/skill-6.svg) ![CI/CD](assets/skill-7.svg)
+**GPU & Model Deployment**
 
-**Project evidence:** African language evaluation (CAMBI) · Computer vision (CassavaCount with YOLO and ByteTrack) · RPA (UiPath automations) · Multimodal LLM integration (StoreBridge) · Multi-tenant architecture (NeuroStack and CassavaCount).
+![NVIDIA H200 Configuration](assets/skill-0.svg) ![GPU Model Loading](assets/skill-1.svg) ![LLM Inference](assets/skill-2.svg)
+
+At Cassava Technologies, I configured NVIDIA H200 GPU environments and loaded language models for inference.
+
+**LLMs & Retrieval**
+
+![AI Agent Development](assets/skill-3.svg) ![Multimodal LLM Integration](assets/skill-4.svg) ![RAG](assets/skill-5.svg) ![Document Ingestion](assets/skill-6.svg) ![Embeddings](assets/skill-7.svg) ![Prompt Engineering](assets/skill-8.svg)
+
+**Model Evaluation**
+
+![LLM Benchmarking](assets/skill-9.svg) ![Shona Language Evaluation](assets/skill-10.svg) ![Reasoning & Bias Evaluation](assets/skill-11.svg)
+
+**Computer Vision**
+
+![Object Detection](assets/skill-12.svg) ![Multi-Object Tracking](assets/skill-13.svg) ![Video Analytics](assets/skill-14.svg)
+
+**Automation & Integration**
+
+![Robotic Process Automation](assets/skill-15.svg) ![Banking Systems Integration](assets/skill-16.svg) ![API Development](assets/skill-17.svg) ![Network Automation](assets/skill-18.svg)
+
+**Cloud & Delivery**
+
+![AWS Deployment](assets/skill-19.svg) ![Containerisation](assets/skill-20.svg) ![CI/CD Pipelines](assets/skill-21.svg) ![Production Monitoring](assets/skill-22.svg)
 
 ## Tech stack
 
@@ -29,9 +51,13 @@ I build AI tools for the people who use them day to day. At Cassava Technologies
 **Build & delivery**  
 ![docker,git,githubactions](https://skillicons.dev/icons?i=docker,git,githubactions)
 
-**Automation & computer vision**
+**Infrastructure & automation**
 
-UiPath · YOLO · ByteTrack
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white) ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat&logo=uipath&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=powerautomate&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+**Computer vision**
+
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=flat&logo=ultralytics&logoColor=white) ![ByteTrack](https://img.shields.io/badge/ByteTrack-111111?style=flat)
 
 ## LLM & RAG Architecture
 
