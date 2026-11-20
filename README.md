@@ -59,14 +59,14 @@ At Cassava Technologies, I configured NVIDIA H200 GPU environments and loaded la
 ## Tech stack
 
 **Languages & APIs**  
-![python,go,dotnet,fastapi,java,csharp,springboot](https://skillicons.dev/icons?i=python,go,dotnet,fastapi,java,cs,spring "Languages and APIs: Python, Go, .NET, FastAPI, Java, C#, Spring Boot")
+![Python](https://skillicons.dev/icons?i=python "Python") ![Go](https://skillicons.dev/icons?i=go "Go") ![.NET](https://skillicons.dev/icons?i=dotnet ".NET") ![FastAPI](https://skillicons.dev/icons?i=fastapi "FastAPI") ![Java](https://skillicons.dev/icons?i=java "Java") ![C#](https://skillicons.dev/icons?i=cs "C#") ![Spring Boot](https://skillicons.dev/icons?i=spring "Spring Boot")
 
 **Web, mobile & data**
 
-![react,nextjs,flutter,postgres,mongodb](https://skillicons.dev/icons?i=react,nextjs,flutter,postgres,mongodb "Web, mobile, and data stack")
+![React](https://skillicons.dev/icons?i=react "React") ![Next.js](https://skillicons.dev/icons?i=nextjs "Next.js") ![Flutter](https://skillicons.dev/icons?i=flutter "Flutter") ![PostgreSQL](https://skillicons.dev/icons?i=postgres "PostgreSQL") ![MongoDB](https://skillicons.dev/icons?i=mongodb "MongoDB")
 
 **Build & delivery**  
-![docker,git,githubactions](https://skillicons.dev/icons?i=docker,git,githubactions "Build and delivery tools")
+![Docker](https://skillicons.dev/icons?i=docker "Docker") ![Git](https://skillicons.dev/icons?i=git "Git") ![GitHub Actions](https://skillicons.dev/icons?i=githubactions "GitHub Actions")
 
 **Infrastructure & automation**
 
