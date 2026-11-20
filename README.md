@@ -14,7 +14,9 @@ I build AI tools for the people who use them day to day. At Cassava Technologies
 
 ## Skills
 
-![Retrieval-augmented generation](assets/skill-0.svg) ![LLM integration](assets/skill-1.svg) ![AI agents](assets/skill-2.svg) ![GPU inference](assets/skill-3.svg) ![Workflow automation](assets/skill-4.svg) ![Backend APIs](assets/skill-5.svg) ![Model evaluation](assets/skill-6.svg) ![CI/CD](assets/skill-7.svg)
+![African Language Evaluation](assets/skill-8.svg) ![Computer Vision](assets/skill-9.svg) ![RPA and Workflow Automation](assets/skill-4.svg) ![Multimodal LLM Integration](assets/skill-1.svg) ![Multi-Tenant Architecture](assets/skill-10.svg) ![Retrieval-augmented generation](assets/skill-0.svg) ![AI agents](assets/skill-2.svg) ![GPU inference](assets/skill-3.svg) ![Backend APIs](assets/skill-5.svg) ![Model evaluation](assets/skill-6.svg) ![CI/CD](assets/skill-7.svg)
+
+**Project evidence:** African language evaluation (CAMBI) · Computer vision (CassavaCount with YOLO and ByteTrack) · RPA (UiPath automations) · Multimodal LLM integration (StoreBridge) · Multi-tenant architecture (NeuroStack and CassavaCount).
 
 ## Tech stack
 
@@ -26,6 +28,10 @@ I build AI tools for the people who use them day to day. At Cassava Technologies
 
 **Build & delivery**  
 ![docker,git,githubactions](https://skillicons.dev/icons?i=docker,git,githubactions)
+
+**Automation & computer vision**
+
+UiPath · YOLO · ByteTrack
 
 ## LLM & RAG Architecture
 
